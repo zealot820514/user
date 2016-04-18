@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"BracketHighlighter",
+		"Codebug",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"Function Name Display",
+		"Git",
+		"GitGutter",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"LineEndings",
+		"Package Control",
+		"PlainTasks",
+		"Sass",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeCodeIntel",
+		"SublimeERB",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"Sublimerge Pro",
+		"Terminal",
+		"Theme - Bamboo",
+		"TrailingSpaces",
+		"VCS Gutter",
+		"Xdebug Client"
+	]
+}
